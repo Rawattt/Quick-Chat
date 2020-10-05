@@ -1,4 +1,4 @@
-# Quick-Chat
+# Quick-Messenger
 A chat web app built using nodejs, expressjs and socketio
 Link - https://quick-messenger.herokuapp.com/
 
